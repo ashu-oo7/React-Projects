@@ -1,3 +1,3 @@
-myapp/node_modules
-myapp/package-lock.json
-myapp/.env
+test-proj/node_modules
+test-proj/.gitignore
+test-proj/package-lock.json
